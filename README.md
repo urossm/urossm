@@ -7,7 +7,7 @@
 
 I'm an indie full-stack developer, and I'm all about building my version of the digital world from scratch, one step at a time. I handle everything from planning and designing coding projects to solving real-life problems with code. It's all about crafting solutions and making a difference, one project at a time.
 
-- 🌟 I’m currently co-founder of a real estate tech startup called <a href="https://dobbli.com">Dobbli</a>
+- 🌟 I’m currently co-founder of a real estate tech startup called <a href="https://dobbli.com" target="_blank">Dobbli</a>
 - 🏞️ I love traveling, training, riding my motorcycle and generally enjoying life
 - 🌱 Embracing personal growth and mental health 
 - ⚡ Random fun fact: Fastest Formula 1 pit stop ever recorded was just 1.80 seconds
