@@ -12,7 +12,7 @@ I'm an indie full-stack developer, and I'm all about building my version of the 
 - 🌱 Embracing personal growth and mental health 
 - ⚡ Random fun fact: Fastest Formula 1 pit stop ever recorded was just 1.80 seconds
 
----
+#
 
 ### 🔧 Tech Stack
 
@@ -30,13 +30,13 @@ I'm an indie full-stack developer, and I'm all about building my version of the 
 <code><img height="30" alt="Google Cloud Platform" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"></code>
 <code><img height="30" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
 
----
+#
 
 ### 📫 How to reach me
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?style=flat-square&logo=linkedin&label=LinkedIn&labelColor=%23777777&color=%23777777)](https://www.linkedin.com/in/uros-markovic) [![Email me](https://img.shields.io/badge/--linkedin?style=flat-square&logo=Gmail&label=Email%20Me&labelColor=%23777777&color=%23777777)](mailto:markovicc.uros@gmail.com)
 
----
+#
 
 ### ⚡ Stats
 
