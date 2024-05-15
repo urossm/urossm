@@ -48,7 +48,7 @@ I'm an indie full-stack developer, and I'm all about building my version of the 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=urossm&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight&cache_seconds=300"/>
 
-_**NOTE**: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code in_
+_**NOTE**: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code lines in_
 
 [//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats-urossms-projects.vercel.app/api?username=urossm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=3600&#41;)
 
