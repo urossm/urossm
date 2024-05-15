@@ -46,7 +46,7 @@ I'm an indie full-stack developer, and I'm all about building my version of the 
 [//]: # (<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight" />)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=urossm&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight&cache_seconds=300"/>
 
 _**NOTE**: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code in_
 
