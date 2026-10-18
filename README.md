@@ -3,53 +3,40 @@
 </div>
 
 # 🍕 Uros Markovic
-**`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer, and I'm all about building my version of the digital world from scratch, one step at a time. I handle everything from planning and designing coding projects to solving real-life problems with code. It's all about crafting solutions and making a difference, one project at a time.
+**`Digital Craftsman (Developer/Creator)`** · Founding Engineer @ [Getafeel](https://getafeel.com) · Novi Sad, Serbia
 
-- 🌟 I’m currently co-founder of a real estate tech startup called <a href="https://dobbli.com" target="_blank">Dobbli</a>
-- 🏞️ I love traveling, training, riding my motorcycle and generally enjoying life
-- 🌱 Embracing personal growth and mental health 
-- ⚡ Random fun fact: Fastest Formula 1 pit stop ever recorded was just 1.80 seconds
+I’ve spent the last 5 years building products from zero at two startups, owning everything from the C++ renderer in Unreal Engine 5 to the web app and the cloud backend behind it. I like understanding a system all the way down before I trust it.
+Before code, I spent 7 years in 2D/3D animation, which is why I still care as much about how something feels as about how fast it runs.
 
-#
+- 🏠 Leading engineering on a UE5 virtual tour platform for real estate at Getafeel
+- 🏍️ Building [**ZanosGP**](https://zanosgp.com), a motorcycle dynamics simulator with its own physics, simulation and custom D3D11 engine, because riding my Honda CBR wasn't nerdy enough
+- 📝 Building [**Markspace**](https://markspace.app), an app for editing Markdown files
+- 📐 Previously co-founded **Dobbli**: phone apartment scanning and 3D reconstruction app for real estate agents
+- 🏞️ Outside of code: traveling, training, riding my motorcycle, and generally enjoying life
+- 🌱 Embracing personal growth and mental health
+- ⚡ Random fun fact: the fastest Formula 1 pit stop ever recorded was 1.80 seconds
 
-### 🔧 Tech Stack
+### 🔧 What I work with
 
-<code><img height="30" alt="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"></code>
-<code><img height="30" alt="OpenCV" src="https://avatars.githubusercontent.com/u/5009934"></code>
-<code><img height="30" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
-<code><img height="30" alt="SpringBoot" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
-<code><img height="30" alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
-<code><img height="30" alt="Flask" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></code>
-<code><img height="30" alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
-<code><img height="30" alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></code>
-<code><img height="30" alt="Vite" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png"></code>
-<code><img height="30" alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
-<code><img height="30" alt="Docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></code>
-<code><img height="30" alt="Google Cloud Platform" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"></code>
-<code><img height="30" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
+- **Real-time rendering** — Unreal Engine 5 (C++), custom 3D / virtual tour pipelines, Three.js
+- **Engine & simulation** — custom Direct3D 11 engine, physics and vehicle simulation (ZanosGP)
+- **Product engineering** — React + Vite frontends, Spring Boot + PostgreSQL backends
+- **Infrastructure** — Firebase, Google Cloud Platform, Docker
+- **Computer vision** — 3D reconstruction, pose estimation, image stitching (Python, OpenCV)
 
-#
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/Direct3D_11-107C10?style=flat-square&logo=windows&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 📫 How to reach me
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?style=flat-square&logo=linkedin&label=LinkedIn&labelColor=%23777777&color=%23777777)](https://www.linkedin.com/in/uros-markovic) [![Email me](https://img.shields.io/badge/--linkedin?style=flat-square&logo=Gmail&label=Email%20Me&labelColor=%23777777&color=%23777777)](mailto:markovicc.uros@gmail.com)
-
-#
-
-### ⚡ Stats
-
-
-[//]: # (<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api?username=urossm&show_icons=true&include_all_commits=true&theme=tokyonight" />)
-
-[//]: # (<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight" />)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=urossm&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-urossms-projects.vercel.app/api/top-langs/?username=urossm&layout=compact&theme=tokyonight&cache_seconds=300"/>
-
-_**NOTE**: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code lines in_
-
-[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats-urossms-projects.vercel.app/api?username=urossm&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=3600&#41;)
-
-
+[LinkedIn](https://www.linkedin.com/in/uros-markovic) · [Email](mailto:markovicc.uros@gmail.com)
