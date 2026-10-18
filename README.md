@@ -19,11 +19,11 @@ Before code, I spent 7 years in 2D/3D animation, which is why I still care as mu
 
 ### 🔧 What I work with
 
-- **Real-time rendering** — Unreal Engine 5 (C++), custom 3D / virtual tour pipelines, Three.js
-- **Engine & simulation** — custom Direct3D 11 engine, physics and vehicle simulation (ZanosGP)
-- **Product engineering** — React + Vite frontends, Spring Boot + PostgreSQL backends
-- **Infrastructure** — Firebase, Google Cloud Platform, Docker
-- **Computer vision** — 3D reconstruction, pose estimation, image stitching (Python, OpenCV)
+- **Real-time rendering** - Unreal Engine 5 (C++), custom 3D / virtual tour pipelines, Three.js
+- **Engine & simulation** - custom Direct3D 11 engine, physics and vehicle simulation (ZanosGP)
+- **Product engineering** - React + Vite frontends, Spring Boot + PostgreSQL backends
+- **Infrastructure** - Firebase, Google Cloud Platform, Docker
+- **Computer vision** - 3D reconstruction, pose estimation, image stitching (Python, OpenCV)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
