@@ -10,8 +10,8 @@ I’ve spent the last 5 years building products from zero at two startups, ownin
 Before code, I spent 7 years in 2D/3D animation, which is why I still care as much about how something feels as about how fast it runs.
 
 - 🏠 Leading engineering on a UE5 virtual tour platform for real estate at Getafeel
-- 🏍️ Building [**ZanosGP**](https://zanosgp.com), a motorcycle dynamics simulator with its own physics, simulation and custom D3D11 engine, because riding my Honda CBR wasn't nerdy enough
-- 📝 Building [**Markspace**](https://markspace.app), an app for editing Markdown files
+- 🏍️ Building [**ZanosGP**](https://zanosgp.com), a motorcycle simulator with fully custom physics and vehicle dynamics, running on my own D3D11 graphics engine, because riding my Honda CBR wasn't nerdy enough
+- 📝 Built [**Markspace**](https://markspace.app), a web app for editing Markdown files
 - 📐 Previously co-founded **Dobbli**: phone apartment scanning and 3D reconstruction app for real estate agents
 - 🏞️ Outside of code: traveling, training, riding my motorcycle, and generally enjoying life
 - 🌱 Embracing personal growth and mental health
